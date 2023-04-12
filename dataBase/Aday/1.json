@@ -1,0 +1,11 @@
+{
+  "_id": 1,
+  "_nombre": "Goku",
+  "_descripcion": "El supersaiyan legendario",
+  "_tipo": "Pop!",
+  "_genero": "Anime",
+  "_franquicia": "Dragon Ball",
+  "_numero": 7,
+  "_exclusivo": true,
+  "_valor": 13.99
+}

@@ -1,0 +1,12 @@
+{
+  "_id": 2,
+  "_nombre": "Androide 16",
+  "_descripcion": "Androide del Doctor Gero",
+  "_tipo": "Pop!",
+  "_genero": "Anime",
+  "_franquicia": "Dragon Ball",
+  "_numero": 12,
+  "_exclusivo": true,
+  "_caracteristicasEsp": "Mueve la cabeza",
+  "_valor": 17.99
+}
