@@ -56,6 +56,7 @@ if (process.argv.length !== 3) {
     - Se encuentra el watcher del fichero, el cual pasa a la web API a la espera de un cambio en el fichero.
     - Entra a la pila de llamadas y se ejecuta el console.log de "File ficherosTexto/helloworld.txt is no longer watched"
     - Modificamos el fichero, se activa el manejador watcher y ejecuta el maejador de evento "change". Se manda el código a la cola, y como no hay nada en la pila de llamadas, mueve el código a la pila de llamadas y ejecuta el console.log de "File ficherosTexto/helloworld.txt has been modified somehow".
+    - Cada vez que se modifique el ficher helloworld.txt, se repetirá el apartado anterior.
 
 - Access permite comprobar el acceso al fichero o directorio especificado, así como los permisos.
 - Constant es un objeto que ofrece constantes relacionadas con fs.
