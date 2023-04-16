@@ -1,7 +1,8 @@
 {
   "entryPoints": [
-    "",
-
+    "./src/ejercicio-pe/*",
+    "./src/ejercicio-2/*",
+    "./src/funkoPop/*",
   ],
   "out": "./docs"
 }
